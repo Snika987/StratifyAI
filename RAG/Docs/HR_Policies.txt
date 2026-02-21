@@ -1,0 +1,365 @@
+ApexNova Technologies
+Human Resources Operations and Governance Policy
+Document ID: AN-HR-OPG-001
+Effective Date: 01 April 2026
+Owner: Chief Human Resources Officer (CHRO)
+Headquarters: Bengaluru, India
+
+1. Purpose
+
+1.1 The purpose of this Human Resources Operations and Governance Policy (“Policy”) is to establish a comprehensive framework governing HR processes, decision-making authorities, service delivery standards, compliance controls, and operational accountability within ApexNova Technologies (“ApexNova”).
+
+1.2 This Policy is designed to:
+a. Standardize HR processes across all business units and global locations.
+b. Ensure compliance with applicable labor laws and regulatory requirements.
+c. Define roles, responsibilities, approval thresholds, and escalation mechanisms.
+d. Establish measurable service levels and reporting metrics.
+e. Enable operational consistency to support a scalable workforce between 1000 and 2500 employees.
+f. Provide structured documentation to support knowledge management systems and Retrieval-Augmented Generation (RAG) solutions.
+
+1.3 This Policy applies to all HR functions including Talent Acquisition, Compensation & Benefits, Payroll, Employee Relations, Learning & Development, HR Operations, Workforce Planning, and Global Mobility.
+
+2. Scope
+
+2.1 This Policy applies to:
+a. All permanent, probationary, contractual, and temporary employees of ApexNova.
+b. All HR personnel and line managers involved in people-related decisions.
+c. All domestic operations in India and international client-facing operations.
+d. Third-party service providers engaged in payroll processing, benefits administration, recruitment, background verification, and HR technology platforms.
+
+2.2 This Policy governs the following HR domains:
+a. Recruitment and onboarding.
+b. Compensation administration and salary revisions.
+c. Payroll processing and benefits management.
+d. Leave management and attendance.
+e. Performance management.
+f. Disciplinary actions and terminations.
+g. Workforce restructuring and redundancies.
+h. Employee grievance handling.
+i. HR data management and reporting.
+
+2.3 This Policy does not override statutory labor laws. Where local legislation conflicts with this Policy, statutory requirements shall prevail.
+
+3. Definitions
+
+3.1 “ApexNova” refers to ApexNova Technologies and its subsidiaries.
+
+3.2 “HR” refers to the Human Resources Department.
+
+3.3 “CHRO” refers to the Chief Human Resources Officer.
+
+3.4 “HRBP” refers to HR Business Partner assigned to specific business units.
+
+3.5 “Business Unit (BU)” refers to any defined operational or functional division.
+
+3.6 “Monetary Authority Limit (MAL)” refers to the maximum financial amount an individual role can approve.
+
+3.7 “Employee” refers to any individual on ApexNova payroll.
+
+3.8 “Contractor” refers to any non-payroll resource engaged via third-party agreement.
+
+3.9 “SLA” refers to Service Level Agreement.
+
+3.10 “Grievance” refers to a formal complaint submitted by an employee regarding workplace matters.
+
+3.11 “Gross Misconduct” refers to severe violations including but not limited to fraud, data theft, harassment, violence, or breach of confidentiality.
+
+3.12 “Confidential HR Data” includes personal identification information, compensation data, disciplinary records, medical records, and performance documentation.
+
+4. Roles and Responsibilities
+
+4.1 Board of Directors
+a. Approve executive compensation.
+b. Oversee compliance governance.
+c. Review workforce risk reports annually.
+
+4.2 Chief Executive Officer (CEO)
+a. Approve workforce planning budgets.
+b. Approve senior leadership hiring above Grade G12.
+c. Review HR metrics quarterly.
+
+4.3 Chief Human Resources Officer (CHRO)
+a. Own this Policy and related procedures.
+b. Approve salary structures and benefits design.
+c. Authorize compensation exceptions exceeding INR 20,00,000 annually.
+d. Oversee compliance audits and regulatory reporting.
+
+4.4 HR Business Partners (HRBPs)
+a. Support BU heads in workforce planning.
+b. Approve compensation adjustments up to INR 5,00,000 annually.
+c. Lead grievance resolution within assigned BUs.
+d. Ensure adherence to SLAs.
+
+4.5 HR Operations Manager
+a. Oversee payroll processing.
+b. Ensure onboarding and exit process compliance.
+c. Maintain HRIS data integrity.
+d. Escalate payroll discrepancies above INR 50,000 to CHRO.
+
+4.6 Talent Acquisition Manager
+a. Approve hiring budgets within allocated headcount.
+b. Ensure recruitment cycle time adherence.
+c. Manage external recruitment vendor contracts up to INR 50,00,000 annually.
+
+4.7 Line Managers
+a. Initiate hiring requisitions.
+b. Conduct performance reviews.
+c. Recommend salary increments within approved budget.
+
+4.8 Finance Department
+a. Validate compensation budgets.
+b. Approve payroll disbursements.
+c. Monitor financial impact of workforce changes.
+
+4.9 Legal Department
+a. Review disciplinary cases involving potential litigation.
+b. Validate termination processes.
+c. Ensure labor law compliance.
+
+5. Policy Statements
+
+5.1 Workforce Planning
+a. Annual workforce planning shall be completed by 31 January for the upcoming fiscal year.
+b. Headcount growth above 10 percent requires CEO approval.
+c. Unplanned hiring exceeding approved headcount must be justified with ROI documentation.
+
+5.2 Recruitment
+a. All positions must have an approved requisition ID.
+b. Background verification is mandatory for all hires.
+c. Offer validity is 7 calendar days unless extended by HR.
+d. Hiring above Grade G10 requires CHRO approval.
+
+5.3 Compensation
+a. Annual increment cycle shall occur in April.
+b. Standard increment range: 6 to 12 percent of fixed pay.
+c. Promotions may include 12 to 25 percent adjustment.
+d. Compensation exceeding salary band by more than 15 percent requires CHRO and CFO joint approval.
+
+5.4 Payroll
+a. Payroll is processed monthly.
+b. Salary disbursement occurs on or before the 28th of each month.
+c. Payroll variance tolerance threshold is 0.5 percent of total payroll cost.
+d. Corrections above INR 25,000 require HR Operations Manager review.
+
+5.5 Leave Management
+a. Annual leave entitlement: 18 days.
+b. Sick leave: 12 days per year.
+c. Carry-forward limit: 10 days.
+d. Leave encashment permitted only upon separation.
+
+5.6 Performance Management
+a. Annual appraisal cycle runs January to March.
+b. Ratings calibrated at BU level.
+c. Top performance rating capped at 20 percent of workforce.
+
+5.7 Disciplinary Action
+a. Progressive discipline approach: verbal warning, written warning, final warning, termination.
+b. Gross misconduct may lead to immediate suspension pending investigation.
+c. Investigation completion timeline: 15 working days.
+
+5.8 Termination
+a. Notice period: 60 days for mid-level employees; 90 days for senior leadership.
+b. Buyout permitted subject to manager and HR approval.
+c. Final settlement processed within 30 days.
+
+6. Operational Procedures
+
+6.1 Hiring Workflow
+Step 1: Manager submits requisition in HRIS.
+Step 2: HRBP reviews role justification within 2 working days.
+Step 3: Finance validates budget within 3 working days.
+Step 4: Talent Acquisition initiates sourcing.
+Step 5: Interview panel conducts structured evaluation.
+Step 6: Compensation benchmarking performed.
+Step 7: Offer approval based on approval matrix.
+Step 8: Background verification initiated.
+Step 9: Onboarding scheduled.
+
+6.2 Payroll Processing Workflow
+a. Attendance data freeze: 20th of each month.
+b. Variable pay inputs deadline: 22nd.
+c. Payroll draft shared with Finance: 24th.
+d. Final approval: 26th.
+e. Bank transfer file submission: 27th.
+
+6.3 Grievance Handling Procedure
+a. Complaint logged via HR portal.
+b. Acknowledgment within 2 working days.
+c. Preliminary review within 5 working days.
+d. Investigation within 15 working days.
+e. Closure report issued within 3 days of decision.
+
+6.4 Exit Process
+a. Resignation recorded in HRIS.
+b. Knowledge transfer plan documented.
+c. IT asset recovery initiated.
+d. Clearance from Finance and Admin.
+e. Full and final settlement calculated.
+
+7. Approval Matrix
+
+7.1 Hiring Approval
+a. Entry-level: HRBP + BU Head.
+b. Mid-level: HRBP + BU Head + Finance.
+c. Senior-level: CHRO + CEO.
+
+7.2 Salary Adjustments
+a. Up to INR 5,00,000 annually: HRBP.
+b. INR 5,00,001 to 20,00,000: CHRO.
+c. Above INR 20,00,000: CHRO + CFO.
+
+7.3 Severance
+a. Statutory only: HRBP.
+b. Up to 3 months additional pay: CHRO.
+c. Above 3 months: CEO approval.
+
+8. Escalation Process
+
+8.1 Level 1: HRBP
+Response time: 2 working days.
+
+8.2 Level 2: HR Operations Manager or Talent Acquisition Manager
+Response time: 3 working days.
+
+8.3 Level 3: CHRO
+Response time: 5 working days.
+
+8.4 Level 4: CEO
+Reserved for high-risk cases involving legal exposure above INR 1,00,00,000.
+
+9. SLA Guidelines
+
+9.1 Recruitment
+a. Standard positions: 45 calendar days.
+b. Niche roles: 60 calendar days.
+
+9.2 Offer Letter Release
+Within 3 working days of final approval.
+
+9.3 Payroll Queries
+Response within 2 working days.
+Resolution within 5 working days.
+
+9.4 Grievance Resolution
+Within 30 calendar days.
+
+9.5 Exit Settlement
+Within 30 days of last working day.
+
+10. Exception Handling
+
+10.1 All exceptions must be documented in writing.
+
+10.2 Compensation exceptions beyond band require:
+a. Market benchmarking data.
+b. Business justification.
+c. CHRO approval.
+
+10.3 Emergency Hiring Exception
+a. Critical client-driven requirement.
+b. CEO waiver of standard requisition timeline.
+c. Post-facto documentation within 7 days.
+
+10.4 Policy deviation logs must be reviewed quarterly by HR Governance Committee.
+
+11. Compliance & Audit Controls
+
+11.1 Internal audit of HR processes shall occur biannually.
+
+11.2 Payroll audit sampling rate: minimum 5 percent of workforce.
+
+11.3 Background verification audit compliance threshold: 100 percent.
+
+11.4 Labor law compliance checklist to be validated quarterly.
+
+11.5 Records retention:
+a. Employee records: 7 years post separation.
+b. Payroll records: 8 years.
+c. Investigation records: 10 years.
+
+11.6 Non-compliance may result in disciplinary action against responsible personnel.
+
+12. Security Considerations
+
+12.1 HR data must be stored in encrypted systems.
+
+12.2 Access to compensation data limited to HR, Finance, and authorized leadership.
+
+12.3 Role-based access controls implemented in HRIS.
+
+12.4 Data export above 500 employee records requires CHRO approval.
+
+12.5 All HR staff must complete annual data privacy training.
+
+12.6 Cross-border data transfers must comply with applicable data protection laws.
+
+13. Reporting & Metrics
+
+13.1 Monthly HR Dashboard Metrics:
+a. Headcount variance.
+b. Attrition rate.
+c. Offer acceptance rate.
+d. Recruitment cycle time.
+e. Payroll accuracy percentage.
+f. Training hours per employee.
+g. Grievance resolution time.
+
+13.2 Quarterly Reports:
+a. Diversity ratio.
+b. Compensation ratio analysis.
+c. Overtime expenditure.
+d. Absenteeism rate.
+
+13.3 Annual Reports:
+a. Workforce cost as percentage of revenue.
+b. Voluntary vs involuntary attrition.
+c. Employee engagement survey index.
+
+13.4 Target Benchmarks:
+a. Attrition rate below 15 percent annually.
+b. Payroll accuracy above 99.5 percent.
+c. Recruitment cycle time adherence 90 percent.
+
+14. FAQs
+
+14.1 What is the approval process for urgent hiring?
+Urgent hiring requires BU Head justification and CHRO approval. Documentation must be completed within 7 days.
+
+14.2 Can compensation exceed the defined band?
+Yes, with documented market justification and CHRO approval. Exceeding 15 percent above band requires CFO concurrence.
+
+14.3 How long does payroll correction take?
+Typically 5 working days after issue validation.
+
+14.4 What is the process for handling harassment complaints?
+Immediate acknowledgment, confidential investigation within 15 working days, and compliance with applicable workplace laws.
+
+14.5 Can notice period be reduced?
+Yes, subject to manager, HRBP, and business continuity considerations.
+
+14.6 What happens if SLA targets are not met?
+Root cause analysis is conducted. Repeated breaches may impact performance ratings of responsible managers.
+
+14.7 How are contractor conversions handled?
+Subject to workforce planning approval and revised compensation benchmarking.
+
+15. Version History & Review Cycle
+
+15.1 Version 1.0
+Effective Date: 01 April 2026
+Initial release.
+
+15.2 Review Cycle
+a. Annual review by HR Governance Committee.
+b. Interim updates permitted for regulatory changes.
+c. All updates require CHRO approval.
+
+15.3 Next Scheduled Review Date
+01 April 2027.
+
+15.4 Document Control
+a. Maintained in centralized document management system.
+b. Access restricted to HR leadership and executive management.
+c. Obsolete versions archived for audit traceability.
+
+This Policy is mandatory for all ApexNova Technologies employees and supersedes all prior HR operational guidelines. Non-compliance may result in disciplinary action up to and including termination of employment.

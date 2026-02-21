@@ -1,0 +1,322 @@
+ApexNova Technologies
+Travel and Mobility Operations Governance Policy
+Document ID: AN-TRV-OPG-001
+Effective Date: 01 April 2026
+Owner: Head – Corporate Travel & Mobility
+Headquarters: Bengaluru, India
+
+1. Purpose
+
+1.1 The purpose of this Travel and Mobility Operations Governance Policy (“Policy”) is to define the standardized framework governing official travel, business mobility, expense authorization, travel safety, vendor engagement, and reimbursement controls across ApexNova Technologies (“ApexNova”).
+
+1.2 This Policy ensures:
+a. Cost-efficient and compliant travel management.
+b. Employee safety and duty of care during domestic and international travel.
+c. Financial accountability with defined monetary thresholds.
+d. Transparent approval hierarchies and audit traceability.
+e. Alignment with tax, immigration, and regulatory requirements.
+f. Structured documentation suitable for enterprise knowledge and RAG systems.
+
+1.3 This Policy applies to all official business travel funded fully or partially by ApexNova.
+
+2. Scope
+
+2.1 This Policy applies to:
+a. All permanent and contractual employees traveling on official business.
+b. International assignees and short-term business visitors.
+c. Interview candidates for reimbursable travel.
+d. Third-party travel management companies (TMCs).
+e. Corporate travel desk and finance personnel.
+
+2.2 Travel Types Covered:
+a. Domestic travel within India.
+b. International travel.
+c. Client-billed travel.
+d. Training and conference travel.
+e. Internal meetings and leadership summits.
+f. Relocation and long-term assignments.
+
+2.3 This Policy does not apply to personal travel, except where leave extension overlaps with business travel.
+
+3. Definitions
+
+3.1 “Official Travel” refers to travel authorized for business purposes.
+
+3.2 “TMC” refers to Travel Management Company.
+
+3.3 “Per Diem” refers to daily allowance for meals and incidental expenses.
+
+3.4 “Advance” refers to funds issued prior to travel.
+
+3.5 “Duty of Care” refers to company obligation to ensure traveler safety.
+
+3.6 “Travel Authorization (TA)” refers to formal pre-approval in travel system.
+
+3.7 “Emergency Travel” refers to travel required within 24 hours due to urgent business needs.
+
+3.8 “Client-Billable Travel” refers to travel expenses chargeable to a client under contract.
+
+4. Roles and Responsibilities
+
+4.1 Chief Executive Officer (CEO)
+a. Approve executive international travel exceeding INR 20,00,000 per trip.
+b. Approve strategic relocation assignments.
+
+4.2 Chief Financial Officer (CFO)
+a. Approve annual travel budget.
+b. Review high-cost exceptions above INR 15,00,000 per trip.
+
+4.3 Head – Corporate Travel & Mobility
+a. Own and enforce this Policy.
+b. Manage TMC contracts.
+c. Approve international travel up to INR 15,00,000 per trip.
+
+4.4 Business Unit Heads
+a. Approve domestic travel within budget.
+b. Validate business justification.
+
+4.5 Travel Desk
+a. Issue tickets and hotel bookings.
+b. Ensure compliance with fare policies.
+c. Maintain travel records.
+
+4.6 Finance Department
+a. Process travel advances and reimbursements.
+b. Audit expense claims.
+
+4.7 Employees
+a. Obtain pre-approval before travel.
+b. Adhere to cost and safety guidelines.
+c. Submit expense claims within defined timelines.
+
+5. Policy Statements
+
+5.1 Pre-Approval Requirement
+a. All travel must be approved via Travel Authorization (TA).
+b. Travel without TA will not be reimbursed unless approved retrospectively by BU Head and Travel Head.
+
+5.2 Budget Controls
+a. Annual travel budget approved by CFO.
+b. Unbudgeted travel exceeding INR 5,00,000 requires CFO approval.
+c. Travel budget variance above 10 percent requires reforecast.
+
+5.3 Air Travel Class Eligibility
+a. Domestic flights under 2 hours: Economy class.
+b. Domestic flights above 2 hours: Economy; Business class for Grade G12 and above.
+c. International flights under 6 hours: Economy; Premium Economy for Grade G12+.
+d. International flights above 6 hours: Business class for Grade G12+; Economy for others unless approved.
+
+5.4 Hotel Standards
+a. Domestic metro cities: 4-star category cap INR 12,000 per night.
+b. Non-metro cities: INR 8,000 per night cap.
+c. International hotels: Up to USD 250 per night unless location demands higher rates.
+d. Exceptions above 20 percent of cap require Travel Head approval.
+
+5.5 Ground Transportation
+a. Preferred use of corporate cab vendors.
+b. Rental cars allowed for trips exceeding 3 days.
+c. Personal vehicle reimbursement at INR 12 per kilometer.
+
+5.6 Per Diem Allowances
+a. Domestic travel: INR 2,000 per day.
+b. International travel: Based on destination country index published annually.
+c. Per diem excludes alcohol and personal entertainment.
+
+5.7 Travel Advances
+a. Advance permitted up to 80 percent of estimated cost.
+b. Advances above INR 2,00,000 require Finance Manager approval.
+c. Settlement required within 7 days of return.
+
+5.8 Client-Billable Travel
+a. Must align with client contract.
+b. Separate cost code required.
+c. Invoice submission within 10 working days post travel.
+
+5.9 Travel Insurance
+a. Mandatory for all international travel.
+b. Coverage includes medical, evacuation, and trip cancellation.
+
+6. Operational Procedures
+
+6.1 Travel Request Workflow
+Step 1: Employee submits TA request with cost estimate.
+Step 2: Manager approval within 2 working days.
+Step 3: Budget validation by Finance.
+Step 4: Travel Desk booking confirmation.
+Step 5: Ticket issuance and itinerary sharing.
+
+6.2 Emergency Travel
+a. Manager verbal approval permitted.
+b. Formal TA submission within 24 hours.
+c. Travel Head review within 48 hours.
+
+6.3 Expense Reimbursement Process
+a. Expense report submission within 7 calendar days.
+b. Receipts mandatory for expenses above INR 1,000.
+c. Finance audit within 5 working days.
+d. Reimbursement within 10 working days of approval.
+
+6.4 International Travel Compliance
+a. Visa processing initiated minimum 21 days before departure.
+b. Passport validity minimum 6 months.
+c. Foreign exchange request submitted 5 working days prior.
+
+6.5 Relocation Procedure
+a. Relocation budget approved by BU Head and CFO.
+b. Maximum relocation support: INR 10,00,000 domestic; INR 25,00,000 international.
+c. Repayment clause applicable if employee resigns within 12 months.
+
+7. Approval Matrix
+
+7.1 Domestic Travel
+Up to INR 1,00,000: Manager
+INR 1,00,001 to 5,00,000: BU Head
+Above INR 5,00,000: CFO
+
+7.2 International Travel
+Up to INR 5,00,000: BU Head
+INR 5,00,001 to 15,00,000: Travel Head
+Above INR 15,00,000: CFO
+
+7.3 Travel Advances
+Up to INR 1,00,000: Finance Executive
+INR 1,00,001 to 2,00,000: Finance Manager
+Above INR 2,00,000: CFO
+
+8. Escalation Process
+
+8.1 Level 1: Travel Desk
+Response within 1 working day.
+
+8.2 Level 2: Travel Head
+Response within 2 working days.
+
+8.3 Level 3: CFO
+Response within 3 working days.
+
+8.4 Level 4: CEO
+Escalation for strategic or emergency travel exceeding INR 20,00,000.
+
+9. SLA Guidelines
+
+9.1 Booking Confirmation
+Within 1 working day of approval.
+
+9.2 Visa Support
+Documentation review within 2 working days.
+
+9.3 Reimbursement
+Within 10 working days post approval.
+
+9.4 Advance Processing
+Within 3 working days of request.
+
+9.5 Emergency Support
+24/7 hotline support via TMC.
+
+10. Exception Handling
+
+10.1 Last-Minute Fare Increase
+a. Documented price comparison required.
+b. Travel Head approval if cost exceeds 25 percent of estimate.
+
+10.2 Hotel Rate Exceeding Cap
+a. Justification due to city demand or client location.
+b. Approval required before booking.
+
+10.3 Extended Stay for Personal Reasons
+a. Personal days not reimbursable.
+b. Travel cost difference borne by employee.
+
+10.4 Travel During High-Risk Events
+a. Mandatory Security review.
+b. Executive approval required.
+
+11. Compliance & Audit Controls
+
+11.1 Quarterly travel expense audit sampling at 10 percent of claims.
+
+11.2 Policy compliance rate target: 95 percent.
+
+11.3 Duplicate claim detection via expense management system.
+
+11.4 Retention of travel documents for 8 years.
+
+11.5 GST input credit reconciliation monthly.
+
+12. Security Considerations
+
+12.1 Traveler tracking system enabled for international travel.
+
+12.2 Emergency contact details mandatory.
+
+12.3 High-risk country travel requires security briefing.
+
+12.4 Sensitive travel itineraries shared on need-to-know basis only.
+
+12.5 Data protection for passport and visa documents.
+
+13. Reporting & Metrics
+
+13.1 Monthly Metrics
+a. Travel spend vs budget.
+b. Average trip cost.
+c. Policy compliance rate.
+d. Advance settlement aging.
+e. Client-billable recovery rate.
+
+13.2 Target Benchmarks
+a. Budget variance below 10 percent.
+b. Reimbursement SLA adherence 95 percent.
+c. Advance settlement compliance 100 percent within 7 days.
+
+13.3 Quarterly Reports
+a. Top travel destinations.
+b. Airline and hotel vendor utilization.
+c. Cost optimization savings.
+
+13.4 Annual Review
+a. Travel vendor contract renegotiation savings.
+b. Risk exposure analysis.
+c. Policy effectiveness review.
+
+14. FAQs
+
+14.1 Is pre-approval mandatory for all travel?
+Yes. All official travel requires Travel Authorization.
+
+14.2 What is the per diem amount for domestic travel?
+INR 2,000 per day.
+
+14.3 Can business class be booked for international travel?
+Eligible for Grade G12 and above for flights exceeding 6 hours.
+
+14.4 What is the reimbursement timeline?
+Within 10 working days of approval.
+
+14.5 Are personal travel extensions reimbursed?
+No. Only official travel days are reimbursable.
+
+14.6 What happens if expenses exceed approved budget?
+Excess requires documented justification and higher-level approval.
+
+15. Version History & Review Cycle
+
+15.1 Version 1.0
+Effective Date: 01 April 2026
+Initial release.
+
+15.2 Review Cycle
+a. Annual review by Travel Head and CFO.
+b. Interim updates for regulatory or market changes.
+c. All amendments require CFO approval.
+
+15.3 Next Scheduled Review Date
+01 April 2027.
+
+15.4 Document Control
+a. Maintained in centralized document management system.
+b. Access restricted to Travel, Finance, and Executive leadership.
+c. Archived versions retained for audit traceability.
+
+This Policy is mandatory for all ApexNova Technologies employees undertaking official travel. Non-compliance may result in non-reimbursement, disciplinary action, or financial liability as applicable.

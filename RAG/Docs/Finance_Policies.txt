@@ -1,0 +1,349 @@
+ApexNova Technologies
+Finance Operations and Governance Policy
+Document ID: AN-FIN-OPG-001
+Effective Date: 01 April 2026
+Owner: Chief Financial Officer (CFO)
+Headquarters: Bengaluru, India
+
+1. Purpose
+
+1.1 The purpose of this Finance Operations and Governance Policy (“Policy”) is to establish a standardized, controlled, and auditable framework for financial management across ApexNova Technologies (“ApexNova”), ensuring fiscal discipline, regulatory compliance, transparency, and operational efficiency.
+
+1.2 This Policy defines the authority limits, financial controls, accounting standards, reporting requirements, service level commitments, and escalation mechanisms governing the Finance Department.
+
+1.3 The Policy is structured to:
+a. Safeguard company assets.
+b. Ensure compliance with Indian Accounting Standards (Ind AS), Companies Act 2013, Income Tax Act, GST regulations, and applicable international regulations for global client operations.
+c. Standardize financial processes across business units and geographies.
+d. Establish approval hierarchies with defined monetary thresholds.
+e. Enable audit readiness and support enterprise knowledge systems including Retrieval-Augmented Generation (RAG) frameworks.
+
+2. Scope
+
+2.1 This Policy applies to:
+a. All Finance Department employees.
+b. Business Unit (BU) Heads with budget authority.
+c. Procurement, HR, Sales, Legal, and Operations teams interacting with Finance.
+d. Subsidiaries and branch offices operating under ApexNova.
+e. Third-party financial service providers, auditors, consultants, and banking partners.
+
+2.2 Functional Areas Covered:
+a. Financial Planning and Analysis (FP&A).
+b. Budgeting and Forecasting.
+c. Accounts Payable (AP).
+d. Accounts Receivable (AR).
+e. General Ledger (GL) Accounting.
+f. Taxation (Direct and Indirect).
+g. Treasury and Cash Management.
+h. Fixed Assets Management.
+i. Financial Reporting.
+j. Statutory Compliance.
+k. Internal Controls and Audit Support.
+l. Expense Reimbursement.
+m. Capital Expenditure (CapEx) Governance.
+
+2.3 This Policy does not supersede statutory obligations. In case of conflict, statutory law prevails.
+
+3. Definitions
+
+3.1 “ApexNova” refers to ApexNova Technologies and its subsidiaries.
+
+3.2 “CFO” refers to Chief Financial Officer.
+
+3.3 “Controller” refers to Financial Controller responsible for accounting oversight.
+
+3.4 “Budget Owner” refers to an executive or manager responsible for cost center budgets.
+
+3.5 “Monetary Authority Limit (MAL)” refers to maximum financial approval authority.
+
+3.6 “CapEx” refers to capital expenditure for assets exceeding INR 1,00,000 with useful life greater than 12 months.
+
+3.7 “OpEx” refers to operational expenditure.
+
+3.8 “Material Variance” refers to deviation exceeding 5 percent of approved budget or INR 25,00,000, whichever is lower.
+
+3.9 “Working Capital” refers to current assets minus current liabilities.
+
+3.10 “ERP System” refers to ApexNova’s enterprise resource planning platform.
+
+3.11 “Three-Way Match” refers to validation of purchase order, goods receipt, and invoice prior to payment.
+
+4. Roles and Responsibilities
+
+4.1 Board of Directors
+a. Approve annual financial statements.
+b. Approve capital investments above INR 25,00,00,000.
+c. Oversee financial risk management.
+
+4.2 Chief Executive Officer (CEO)
+a. Approve annual operating plan.
+b. Approve unbudgeted expenditure above INR 5,00,00,000.
+c. Review quarterly financial performance.
+
+4.3 Chief Financial Officer (CFO)
+a. Own and enforce this Policy.
+b. Approve capital projects up to INR 25,00,00,000.
+c. Approve write-offs above INR 50,00,000.
+d. Ensure regulatory compliance.
+e. Present financial reports to Board.
+
+4.4 Financial Controller
+a. Ensure accounting accuracy.
+b. Supervise GL, AP, AR.
+c. Approve journal entries above INR 10,00,000.
+d. Lead statutory audit coordination.
+
+4.5 Finance Managers
+a. Monitor budget utilization.
+b. Approve vendor payments up to INR 25,00,000.
+c. Review monthly reconciliations.
+
+4.6 Treasury Manager
+a. Manage banking relationships.
+b. Monitor daily cash position.
+c. Execute foreign exchange hedging within approved limits.
+
+4.7 Budget Owners
+a. Ensure expenditures remain within approved budgets.
+b. Provide variance explanations.
+c. Initiate procurement requests.
+
+4.8 Internal Audit
+a. Conduct periodic financial control audits.
+b. Report control deficiencies to Audit Committee.
+
+5. Policy Statements
+
+5.1 Budgeting
+a. Annual budget cycle begins in November and concludes by 31 January.
+b. All BUs must submit detailed budget proposals including headcount, revenue projections, and cost breakdowns.
+c. Budget growth above 15 percent year-on-year requires CFO review.
+
+5.2 Expenditure Authorization
+a. No expenditure shall be incurred without approved budget allocation.
+b. Unbudgeted OpEx above INR 10,00,000 requires CFO approval.
+c. Split invoicing to circumvent approval thresholds is prohibited.
+
+5.3 Capital Expenditure
+a. CapEx requires business case with ROI analysis.
+b. Projects exceeding INR 1,00,00,000 require IRR minimum of 15 percent.
+c. CapEx above INR 5,00,00,000 requires CEO concurrence.
+
+5.4 Procurement and Payment
+a. All purchases above INR 50,000 require purchase order.
+b. Three-way match mandatory before payment.
+c. Payment terms standard: 30 days unless negotiated.
+
+5.5 Revenue Recognition
+a. Revenue recognized per Ind AS 115.
+b. Milestone-based contracts require documented acceptance evidence.
+c. Deferred revenue accounted monthly.
+
+5.6 Accounts Receivable
+a. Standard credit terms: 30 days.
+b. Overdue above 60 days escalated to BU Head.
+c. Provision for doubtful debts applied after 90 days overdue.
+
+5.7 Expense Reimbursement
+a. Claims must be submitted within 30 days of expense.
+b. Supporting documentation mandatory.
+c. Claims above INR 1,00,000 require Finance Manager review.
+
+5.8 Write-offs
+a. AR write-offs up to INR 10,00,000: Finance Manager.
+b. INR 10,00,001 to 50,00,000: Controller.
+c. Above INR 50,00,000: CFO.
+
+6. Operational Procedures
+
+6.1 Budget Preparation Workflow
+Step 1: FP&A distributes templates.
+Step 2: BU submits projections.
+Step 3: Finance reviews assumptions.
+Step 4: Consolidation and variance analysis.
+Step 5: CFO review and iteration.
+Step 6: CEO approval.
+Step 7: Board presentation.
+
+6.2 Accounts Payable Process
+a. Vendor registration with KYC validation.
+b. Invoice submission to centralized AP mailbox.
+c. ERP entry within 2 working days.
+d. Three-way match verification.
+e. Payment run executed weekly.
+
+6.3 Accounts Receivable Process
+a. Invoice generated within 2 working days of milestone completion.
+b. Monthly AR aging review.
+c. Follow-up cycle at 15, 30, 45 days overdue.
+d. Legal notice after 90 days.
+
+6.4 Monthly Close Process
+a. Close calendar issued monthly.
+b. Journal entries cut-off: last working day.
+c. Reconciliations completed within 5 working days.
+d. Financial statements prepared within 7 working days.
+
+6.5 Treasury Operations
+a. Daily cash position review.
+b. Minimum liquidity buffer: 3 months fixed operating expenses.
+c. Surplus investment per approved investment policy.
+
+7. Approval Matrix
+
+7.1 Operational Expenditure
+Up to INR 5,00,000: Budget Owner
+INR 5,00,001 to 25,00,000: Finance Manager
+INR 25,00,001 to 1,00,00,000: Controller
+Above INR 1,00,00,000: CFO
+
+7.2 Capital Expenditure
+Up to INR 50,00,000: Finance Manager + BU Head
+INR 50,00,001 to 5,00,00,000: CFO
+Above INR 5,00,00,000: CEO + CFO
+
+7.3 Contract Approvals
+Revenue contracts above INR 10,00,00,000 require CFO review before execution.
+
+8. Escalation Process
+
+8.1 Level 1: Finance Manager
+Response time: 2 working days.
+
+8.2 Level 2: Financial Controller
+Response time: 3 working days.
+
+8.3 Level 3: CFO
+Response time: 5 working days.
+
+8.4 Level 4: Audit Committee
+Triggered for suspected fraud above INR 1,00,00,000 or material compliance breach.
+
+9. SLA Guidelines
+
+9.1 Vendor Payment Processing
+Within 7 working days from validated invoice.
+
+9.2 Expense Reimbursement
+Within 10 working days from approval.
+
+9.3 Invoice Generation
+Within 2 working days of revenue trigger.
+
+9.4 Monthly Financial Reporting
+Within 7 working days after month-end.
+
+9.5 Budget Variance Reporting
+Within 5 working days post month-end.
+
+10. Exception Handling
+
+10.1 Emergency Procurement
+a. Justification required.
+b. Post-facto PO within 3 working days.
+c. CFO notification if amount exceeds INR 20,00,000.
+
+10.2 Budget Overrun
+a. Variance above 5 percent requires written explanation.
+b. Reforecast submission within 10 working days.
+
+10.3 Payment Term Exceptions
+a. Advance payment above INR 10,00,000 requires CFO approval.
+b. Performance bank guarantee recommended for advances exceeding INR 50,00,000.
+
+11. Compliance & Audit Controls
+
+11.1 Statutory Audit conducted annually.
+
+11.2 Internal audit conducted quarterly.
+
+11.3 GST returns filed monthly before statutory deadlines.
+
+11.4 TDS returns filed quarterly.
+
+11.5 Segregation of duties enforced in ERP.
+
+11.6 Audit Trail
+a. Journal entry logs retained for 8 years.
+b. Supporting documents archived digitally.
+
+11.7 Fraud Reporting Mechanism
+Anonymous whistleblower channel monitored by Audit Committee.
+
+12. Security Considerations
+
+12.1 Financial data stored in encrypted servers.
+
+12.2 Bank access restricted via dual authentication.
+
+12.3 Payment file approval requires maker-checker control.
+
+12.4 ERP access controlled by role-based permissions.
+
+12.5 Data exports above INR 10,00,00,000 financial data volume require CFO approval.
+
+13. Reporting & Metrics
+
+13.1 Monthly KPIs
+a. Revenue vs budget variance.
+b. EBITDA margin.
+c. DSO (Days Sales Outstanding).
+d. DPO (Days Payable Outstanding).
+e. Cash conversion cycle.
+f. Working capital ratio.
+
+13.2 Target Benchmarks
+a. DSO below 60 days.
+b. EBITDA margin above 18 percent.
+c. Working capital ratio minimum 1.2.
+
+13.3 Quarterly Reviews
+a. CapEx utilization.
+b. Cost optimization savings.
+c. Tax compliance status.
+
+13.4 Annual Metrics
+a. Revenue growth rate.
+b. Net profit margin.
+c. Audit qualification status.
+
+14. FAQs
+
+14.1 What is the threshold for requiring a purchase order?
+All purchases above INR 50,000 require PO.
+
+14.2 How are unbudgeted expenses handled?
+CFO approval required for amounts above INR 10,00,000.
+
+14.3 What is the timeline for expense reimbursement?
+Within 10 working days of approval.
+
+14.4 How are doubtful debts treated?
+Provision created after 90 days overdue; escalation to BU Head.
+
+14.5 Can advance payments be made to vendors?
+Yes, with CFO approval above INR 10,00,000 and appropriate safeguards.
+
+14.6 What is considered material variance?
+Deviation exceeding 5 percent of budget or INR 25,00,000, whichever is lower.
+
+15. Version History & Review Cycle
+
+15.1 Version 1.0
+Effective Date: 01 April 2026
+Initial release.
+
+15.2 Review Cycle
+a. Annual review by CFO and Audit Committee.
+b. Interim updates permitted for regulatory changes.
+c. All amendments require CFO approval.
+
+15.3 Next Scheduled Review Date
+01 April 2027.
+
+15.4 Document Control
+a. Maintained in centralized document repository.
+b. Access restricted to Finance leadership and executive management.
+c. Archived versions retained for audit traceability.
+
+This Policy is mandatory for all ApexNova Technologies personnel involved in financial activities. Non-compliance may result in disciplinary action, financial liability, and potential legal consequences.

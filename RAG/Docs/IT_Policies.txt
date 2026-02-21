@@ -1,0 +1,365 @@
+ApexNova Technologies
+Information Technology (IT) Operations, Hardware, Software and Infrastructure Governance Policy
+Document ID: AN-IT-OPG-001
+Effective Date: 01 April 2026
+Owner: Chief Information Officer (CIO)
+Headquarters: Bengaluru, India
+
+1. Purpose
+
+1.1 The purpose of this Information Technology (IT) Operations, Hardware, Software and Infrastructure Governance Policy (“Policy”) is to establish a unified governance framework for managing all IT assets, platforms, applications, infrastructure, and technology services across ApexNova Technologies (“ApexNova”).
+
+1.2 This Policy ensures:
+a. High availability, reliability, and scalability of IT systems supporting global client operations.
+b. Protection of company data and digital assets.
+c. Standardized operational controls across software, hardware, networks, and cloud environments.
+d. Clear authority levels for approvals, procurement, and change management.
+e. Regulatory compliance including data protection and cybersecurity requirements.
+f. Structured documentation suitable for enterprise knowledge systems and Retrieval-Augmented Generation (RAG) use cases.
+
+1.3 This Policy applies to IT teams managing software development platforms, enterprise applications, end-user computing devices, network infrastructure, data centers, cloud services, cybersecurity operations, and IT service management.
+
+2. Scope
+
+2.1 This Policy applies to:
+a. All IT Department employees.
+b. All employees using ApexNova IT systems.
+c. Third-party vendors providing IT hardware, software, SaaS platforms, cloud services, and managed services.
+d. All domestic and international offices of ApexNova.
+
+2.2 Domains Covered:
+a. IT Service Management (ITSM).
+b. Software Development Infrastructure.
+c. Enterprise Applications (ERP, HRIS, CRM).
+d. Cloud Infrastructure (IaaS, PaaS, SaaS).
+e. On-Premise Data Center Infrastructure.
+f. Network and Security Infrastructure.
+g. End-User Computing (EUC).
+h. IT Asset Management.
+i. Change and Release Management.
+j. Incident and Problem Management.
+k. Business Continuity and Disaster Recovery.
+l. Vendor and License Management.
+
+2.3 This Policy covers both capital and operational expenditures relating to IT.
+
+3. Definitions
+
+3.1 “ApexNova” refers to ApexNova Technologies and its subsidiaries.
+
+3.2 “CIO” refers to Chief Information Officer.
+
+3.3 “ITSM” refers to IT Service Management.
+
+3.4 “Incident” refers to any unplanned interruption or degradation of IT services.
+
+3.5 “Major Incident (P1)” refers to critical service disruption affecting revenue, security, or more than 25 percent of employees.
+
+3.6 “Change Request (CR)” refers to a formal request to modify IT systems.
+
+3.7 “Standard Change” refers to pre-approved low-risk change.
+
+3.8 “Emergency Change” refers to urgent change required to prevent major outage or security risk.
+
+3.9 “CapEx” refers to capital expenditure exceeding INR 1,00,000 per asset.
+
+3.10 “Configuration Management Database (CMDB)” refers to centralized IT asset repository.
+
+3.11 “RTO” refers to Recovery Time Objective.
+
+3.12 “RPO” refers to Recovery Point Objective.
+
+4. Roles and Responsibilities
+
+4.1 Board of Directors
+a. Approve IT investments above INR 25,00,00,000.
+b. Review cybersecurity posture annually.
+
+4.2 Chief Executive Officer (CEO)
+a. Approve strategic IT initiatives above INR 5,00,00,000.
+b. Review quarterly IT performance metrics.
+
+4.3 Chief Information Officer (CIO)
+a. Own and enforce this Policy.
+b. Approve IT budgets.
+c. Authorize IT procurement up to INR 25,00,00,000.
+d. Oversee cybersecurity, infrastructure, and software governance.
+
+4.4 IT Infrastructure Head
+a. Manage data centers, networks, and cloud environments.
+b. Ensure uptime SLAs.
+c. Approve hardware procurement up to INR 1,00,00,000.
+
+4.5 IT Applications Head
+a. Manage enterprise applications.
+b. Approve software licensing within budget.
+c. Ensure release management compliance.
+
+4.6 IT Security Manager
+a. Lead vulnerability management.
+b. Approve access control exceptions.
+c. Investigate security incidents.
+
+4.7 IT Service Desk Manager
+a. Manage ticketing system.
+b. Ensure SLA adherence.
+c. Escalate unresolved incidents.
+
+4.8 Asset Management Team
+a. Maintain CMDB accuracy.
+b. Conduct quarterly asset audits.
+
+4.9 End Users
+a. Use IT assets responsibly.
+b. Report incidents promptly.
+
+5. Policy Statements
+
+5.1 IT Budgeting
+a. Annual IT budget prepared by 31 January.
+b. Unplanned expenditure above 10 percent of approved budget requires CIO approval.
+c. IT budget variance above 5 percent requires justification.
+
+5.2 Hardware Procurement
+a. All hardware purchases above INR 50,000 require CIO or delegate approval.
+b. Standard laptop configuration defined annually.
+c. Asset tagging mandatory within 48 hours of receipt.
+d. Warranty minimum 3 years for laptops and servers.
+
+5.3 Software Licensing
+a. All software must be approved by IT Applications Head.
+b. Unauthorized installations prohibited.
+c. Enterprise license agreements preferred over individual subscriptions.
+d. License utilization reviewed quarterly.
+
+5.4 Cloud Infrastructure
+a. Cloud resources provisioned via approved cloud accounts only.
+b. Cost monitoring conducted weekly.
+c. Unused resources must be decommissioned within 15 days.
+d. Production systems must have minimum 99.5 percent uptime.
+
+5.5 Access Management
+a. Role-based access control mandatory.
+b. Privileged access requires dual approval.
+c. Access review conducted quarterly.
+d. Terminated employee access revoked within 4 hours of exit confirmation.
+
+5.6 Change Management
+a. All changes must be logged in ITSM tool.
+b. CAB (Change Advisory Board) approval required for non-standard changes.
+c. Emergency changes reviewed post-implementation within 48 hours.
+
+5.7 Incident Management
+a. P1 incidents acknowledged within 15 minutes.
+b. Root Cause Analysis (RCA) required within 5 working days.
+c. Repeat incidents escalated to CIO.
+
+5.8 Backup and Recovery
+a. Daily incremental backups.
+b. Weekly full backups.
+c. RTO for critical systems: 4 hours.
+d. RPO for critical systems: 1 hour.
+
+5.9 IT Asset Lifecycle
+a. Laptop refresh cycle: 36 months.
+b. Server refresh cycle: 48 to 60 months.
+c. Secure disposal mandatory with data wipe certification.
+
+6. Operational Procedures
+
+6.1 Hardware Request Workflow
+Step 1: Employee submits request in IT portal.
+Step 2: Manager approval within 2 working days.
+Step 3: Asset availability check.
+Step 4: Procurement if required.
+Step 5: Configuration and deployment.
+Step 6: Asset record updated in CMDB.
+
+6.2 Incident Management Workflow
+a. Ticket logged via portal, email, or phone.
+b. Categorization and prioritization.
+c. Assignment to resolver group.
+d. SLA timer initiated.
+e. Resolution or workaround.
+f. Closure confirmation.
+
+6.3 Change Management Workflow
+a. Change request submission.
+b. Risk and impact assessment.
+c. CAB review.
+d. Implementation scheduling.
+e. Testing and validation.
+f. Post-implementation review.
+
+6.4 Software Release Process
+a. Development completion.
+b. Code review and security scan.
+c. QA testing.
+d. UAT sign-off.
+e. Production deployment.
+f. Monitoring for 24 hours.
+
+6.5 Asset Disposal Process
+a. Approval from IT Infrastructure Head.
+b. Data wipe using certified tools.
+c. Physical destruction if required.
+d. Disposal certificate archived.
+
+7. Approval Matrix
+
+7.1 Hardware Procurement
+Up to INR 5,00,000: IT Infrastructure Head
+INR 5,00,001 to 1,00,00,000: CIO
+Above INR 1,00,00,000: CIO + CFO
+
+7.2 Software Subscription
+Up to INR 10,00,000 annually: IT Applications Head
+INR 10,00,001 to 50,00,000: CIO
+Above INR 50,00,000: CIO + CFO
+
+7.3 Cloud Expenditure
+Up to INR 25,00,000 monthly: Infrastructure Head
+Above INR 25,00,000 monthly: CIO
+
+8. Escalation Process
+
+8.1 Level 1: Service Desk
+Response: Immediate logging.
+
+8.2 Level 2: Resolver Group Lead
+Response within 2 hours for P1.
+
+8.3 Level 3: IT Infrastructure or Applications Head
+Response within 4 hours.
+
+8.4 Level 4: CIO
+Escalation for outages exceeding 4 hours or financial impact above INR 50,00,000.
+
+9. SLA Guidelines
+
+9.1 Incident Response
+P1: Response 15 minutes; Resolution 4 hours.
+P2: Response 1 hour; Resolution 8 hours.
+P3: Response 4 hours; Resolution 2 business days.
+P4: Response 1 business day; Resolution 5 business days.
+
+9.2 Service Requests
+Hardware request fulfillment: 5 working days.
+Software access request: 2 working days.
+
+9.3 System Availability
+Critical systems: 99.5 percent monthly uptime.
+Non-critical systems: 98 percent monthly uptime.
+
+9.4 Backup Verification
+Backup integrity test monthly.
+
+10. Exception Handling
+
+10.1 Emergency Change
+a. CIO approval required.
+b. Documentation within 24 hours.
+c. CAB review post-implementation.
+
+10.2 Hardware Shortage
+a. Temporary device allocation.
+b. Approval for expedited procurement if delay exceeds 5 working days.
+
+10.3 Software Compliance Exception
+a. Business justification required.
+b. CIO approval.
+c. Time-bound approval not exceeding 90 days.
+
+11. Compliance & Audit Controls
+
+11.1 Quarterly IT internal audit.
+
+11.2 Annual external cybersecurity assessment.
+
+11.3 Patch compliance target: 95 percent within 30 days of release.
+
+11.4 Vulnerability scan monthly.
+
+11.5 Asset audit variance tolerance: 1 percent.
+
+11.6 Log retention minimum 1 year for security logs.
+
+12. Security Considerations
+
+12.1 Multi-factor authentication mandatory for remote access.
+
+12.2 Endpoint encryption required for all laptops.
+
+12.3 Network segmentation for production systems.
+
+12.4 Data classification policy enforced.
+
+12.5 Security awareness training mandatory annually.
+
+12.6 Incident reporting within 1 hour of detection.
+
+13. Reporting & Metrics
+
+13.1 Monthly KPIs
+a. System uptime percentage.
+b. Incident volume by priority.
+c. Mean Time to Resolution (MTTR).
+d. Change success rate.
+e. Patch compliance rate.
+f. IT cost as percentage of revenue.
+
+13.2 Target Benchmarks
+a. Change success rate above 95 percent.
+b. MTTR for P1 incidents below 3 hours.
+c. Patch compliance above 95 percent.
+
+13.3 Quarterly Reports
+a. Asset lifecycle compliance.
+b. Security incident trends.
+c. Cloud cost optimization savings.
+
+13.4 Annual Review
+a. Technology roadmap alignment.
+b. IT risk register review.
+c. Disaster recovery test results.
+
+14. FAQs
+
+14.1 How long does laptop provisioning take?
+Standard fulfillment within 5 working days.
+
+14.2 What is the response time for critical outages?
+15 minutes acknowledgment; 4 hours resolution target.
+
+14.3 Are employees allowed to install personal software?
+No. Unauthorized installations are prohibited.
+
+14.4 What is the backup policy?
+Daily incremental and weekly full backups with defined RTO and RPO.
+
+14.5 How are emergency changes handled?
+CIO approval required with documentation within 24 hours.
+
+14.6 What happens if SLA targets are missed?
+Root cause analysis conducted; corrective actions implemented.
+
+15. Version History & Review Cycle
+
+15.1 Version 1.0
+Effective Date: 01 April 2026
+Initial release.
+
+15.2 Review Cycle
+a. Annual review by CIO.
+b. Interim updates for regulatory or technology changes.
+c. Amendments require CIO approval.
+
+15.3 Next Scheduled Review Date
+01 April 2027.
+
+15.4 Document Control
+a. Maintained in centralized document management system.
+b. Access restricted to IT leadership and executive management.
+c. Archived versions retained for audit traceability.
+
+This Policy is mandatory for all ApexNova Technologies employees and contractors interacting with IT systems. Non-compliance may result in disciplinary action, revocation of system access, financial penalties, or legal consequences as applicable.
