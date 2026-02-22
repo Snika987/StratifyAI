@@ -16,6 +16,16 @@ StatusType = Literal[
 ]
 
 
+TaskStatus = Literal["PENDING", "COMPLETED"]
+
+
+class Task(TypedDict):
+    sub_query: str
+    intent: IntentType
+    service_type: ServiceType
+    status: TaskStatus
+
+
 class AgentState(TypedDict, total=False):
     messages: Annotated[List[AnyMessage], add_messages]
     user_query: str
@@ -31,5 +41,11 @@ class AgentState(TypedDict, total=False):
     action: ActionType
     ticket_payload: Dict[str, Any]
     ticket_id: Optional[str]
+    task_ticket_ids: List[str]
     status: StatusType
     error: Optional[str]
+    tasks: List[Task]
+    current_task_index: int
+    awaiting_confirmation: bool
+    confirmed: bool
+    confirmation_prompt: Optional[str]

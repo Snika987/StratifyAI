@@ -1,8 +1,8 @@
 from typing import Any, Dict, List, Optional
 from langchain_core.messages import HumanMessage
-from State.state import IntentType, ServiceType
+from State.state import IntentType, ServiceType, Task
 
-RAG_THRESHOLD = 0.82
+RAG_THRESHOLD = 0.75
 ALLOWED_DEPARTMENTS = {"HR", "Finance", "IT", "Travel"}
 ALLOWED_PRIORITIES = {"low", "medium", "high", "urgent"}
 
@@ -14,6 +14,29 @@ def latest_user_query(state: Dict[str, Any]) -> str:
         if isinstance(msg, HumanMessage):
             return str(msg.content)
     return ""
+
+
+def normalize_yes_no(text: str) -> Optional[bool]:
+    t = text.strip().lower()
+    if t in {"yes", "y", "yeah", "yep", "confirm", "proceed"}:
+        return True
+    if t in {"no", "n", "nope", "cancel", "stop"}:
+        return False
+    return None
+
+
+def get_current_task(state: Dict[str, Any]) -> Optional[Task]:
+    tasks = state.get("tasks", [])
+    idx = state.get("current_task_index", 0)
+    if not tasks or idx < 0 or idx >= len(tasks):
+        return None
+    return tasks[idx]
+
+
+def is_last_task(state: Dict[str, Any]) -> bool:
+    tasks = state.get("tasks", [])
+    idx = state.get("current_task_index", 0)
+    return bool(tasks) and idx >= len(tasks) - 1
 
 
 def detect_department(text: str) -> Optional[str]:

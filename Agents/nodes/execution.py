@@ -16,9 +16,13 @@ def execution_node(state: Dict[str, Any], config: RunnableConfig) -> Dict[str, A
         }
 
         result = create_ticket.invoke(payload, config=config)
+        all_ids = list(state.get("task_ticket_ids", []))
+        if result.get("ticket_id"):
+            all_ids.append(result["ticket_id"])
         return {
             "ticket_payload": payload,
             "ticket_id": result.get("ticket_id"),
+            "task_ticket_ids": all_ids,
             "status": "EXECUTED",
             "error": None,
         }

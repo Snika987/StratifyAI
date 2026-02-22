@@ -15,8 +15,17 @@ def response_node(state: Dict[str, Any], config: RunnableConfig) -> Dict[str, An
         user_query = state.get("user_query", "")
         error = state.get("error")
 
-        if action == "REJECT":
-            text = f"Request rejected. Reason: {error or 'validation failed'}"
+        if state.get("confirmation_prompt") and state.get("status") == "AWAITING_USER":
+            text = state["confirmation_prompt"]
+
+        elif error == "user_declined_multi_ticket_confirmation":
+            text = "Understood. No tickets were created."
+
+        elif action == "REJECT":
+            if error == "user_declined_multi_ticket_confirmation":
+                text = "Understood. I will not create separate tickets for these requests."
+            else:
+                text = f"Request rejected. Reason: {error or 'validation failed'}"
 
         elif action == "ASK_USER":
             missing = state.get("missing_fields", [])
