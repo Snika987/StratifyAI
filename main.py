@@ -1,9 +1,10 @@
-from agents.support_agent import agent
+from Agents.graph import invoke_agent
+import uuid
 
-response = agent.invoke({
-    "messages": [
-        {"role": "user", "content": "My VM is not working"}
-    ]
-})
-
-print(response)
+if __name__ == "__main__":
+    result = invoke_agent(
+        user_query="My VM is not working and I need urgent help.",
+        thread_id="thread_2",
+        user_id = str(uuid.uuid4()),
+    )
+    print(result)
