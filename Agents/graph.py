@@ -1,8 +1,11 @@
 from typing import Any, Dict, Optional
 from uuid import uuid4
+import os
 
 from langgraph.graph import END, START, StateGraph
 from langchain_core.messages import HumanMessage
+
+from opik.integrations.langchain import OpikTracer, track_langgraph
 
 from Database.checkpointer import get_checkpointer
 from State.state import AgentState
@@ -23,13 +26,10 @@ from Agents.nodes.task_progress import task_progress_node, route_after_task_prog
 
 
 def route_after_response(state: Dict[str, Any]) -> str:
-    # Wait for user reply in slot-filling/confirmation paths.
     if state.get("status") == "AWAITING_USER":
         return "end"
-    # User explicitly declined multi-ticket confirmation and tasks were cleared.
     if not state.get("tasks") and state.get("action") == "ANSWER" and state.get("status") == "COMPLETED":
         return "end"
-    # Explicit rejection stops processing.
     if state.get("action") == "REJECT":
         return "end"
     return "task_progress"
@@ -51,36 +51,45 @@ def build_agent():
     builder.add_node("task_progress", task_progress_node)
 
     builder.add_edge(START, "confirmation_handler")
+
     builder.add_conditional_edges(
         "confirmation_handler",
         route_after_confirmation_handler,
         {"intent_splitter": "intent_splitter", "router": "router", "response": "response"},
     )
+
     builder.add_edge("intent_splitter", "confirmation")
+
     builder.add_conditional_edges(
         "confirmation",
         route_after_confirmation,
         {"router": "router", "response": "response"},
     )
+
     builder.add_conditional_edges(
         "router",
         route_after_router,
         {"policy": "policy", "metadata": "metadata", "response": "response"},
     )
+
     builder.add_edge("policy", "decision")
     builder.add_edge("metadata", "validation")
     builder.add_edge("validation", "decision")
+
     builder.add_conditional_edges(
         "decision",
         route_after_decision,
         {"execution": "execution", "response": "response"},
     )
+
     builder.add_edge("execution", "response")
+
     builder.add_conditional_edges(
         "response",
         route_after_response,
         {"task_progress": "task_progress", "end": END},
     )
+
     builder.add_conditional_edges(
         "task_progress",
         route_after_task_progress,
@@ -88,24 +97,39 @@ def build_agent():
     )
 
     checkpointer = get_checkpointer()
-    return builder.compile(checkpointer=checkpointer)
+    compiled_graph = builder.compile(checkpointer=checkpointer)
+
+    # --- Opik Integration ---
+    opik_tracer = OpikTracer(
+        project_name="enterprise-agent",
+        tags=["enterprise-agent"],
+        metadata={"version": "level2"}
+    )
+
+    tracked_graph = track_langgraph(compiled_graph, opik_tracer)
+
+    return tracked_graph
 
 
 agent_graph = build_agent()
 
 
-def invoke_agent(user_query: str, thread_id: Optional[str] = None, user_id: Optional[str] = None) -> Dict[str, Any]:
+def invoke_agent(
+    user_query: str,
+    thread_id: Optional[str] = None,
+    user_id: Optional[str] = None,
+) -> Dict[str, Any]:
+
     tid = thread_id or f"thread_{uuid4()}"
     uid = user_id or "anonymous"
 
-    # Only provide turn input so checkpointed state remains intact across turns.
     turn_state: AgentState = {
         "messages": [HumanMessage(content=user_query)],
         "user_query": user_query,
     }
 
     config = {"configurable": {"thread_id": tid, "user_id": uid}}
-    # Drain stream fully so all checkpoints are written for this turn.
+
     for _ in agent_graph.stream(turn_state, config=config):
         pass
 
